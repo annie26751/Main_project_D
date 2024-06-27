@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Player Ratings</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        h1 {
+            margin-bottom: 30px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .btn-primary {
+            background-color: #007bff;
+            border: none;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+        .card {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border: none;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">K-League Player Ratings</h1>
+        <div class="card p-4">
+            <h2>연도와 라운드별 상위 플레이어 조회</h2>
+            <form action="/top-players" method="post">
+                <div class="form-group">
+                    <label for="year">연도:</label>
+                    <input type="number" id="year" name="year" class="form-control" required>
+                </div>
+                <div class="form-group">
+                    <label for="round">라운드:</label>
+                    <input type="number" id="round" name="round" class="form-control" required>
+                </div>
+                <div class="form-group">
+                    <label for="top_n">상위 N명:</label>
+                    <input type="number" id="top_n" name="top_n" class="form-control" required>
+                </div>
+                <button type="submit" class="btn btn-primary btn-block">조회</button>
+            </form>
+        </div>
+        <div class="card p-4 mt-4">
+            <h2>선수 레이팅 조회</h2>
+            <form action="/player-rating" method="post">
+                <div class="form-group">
+                    <label for="player_name">선수 이름:</label>
+                    <input type="text" id="player_name" name="player_name" class="form-control" required>
+                </div>
+                <div class="form-group">
+                    <label for="year">연도:</label>
+                    <input type="number" id="year" name="year" class="form-control" required>
+                </div>
+                <div class="form-group">
+                    <label for="round">라운드:</label>
+                    <input type="number" id="round" name="round" class="form-control" required>
+                </div>
+                <button type="submit" class="btn btn-primary btn-block">조회</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
