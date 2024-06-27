@@ -1,0 +1,229 @@
+Home_Team,Away_Team,Home_win,Draw,Away_win
+Suwon,Suwon Bluewings,2.14,3.44,3.34
+Ulsan,Daegu,1.74,3.88,4.42
+Jeonbuk Motors,Jeju United,1.89,3.70,3.86
+Gwangju,Incheon United,2.15,3.20,3.20
+Gangwon,Seongnam,2.05,3.20,3.45
+Pohang Steelers,FC Seoul,2.22,3.20,3.06
+FC Seoul,Gangwon,2.20,3.00,3.00
+Incheon United,Pohang Steelers,3.10,3.00,2.20
+Suwon Bluewings,Ulsan,4.80,3.40,1.67
+Daegu,Jeonbuk Motors,3.40,3.25,1.95
+Seongnam,Gwangju,2.08,3.10,3.40
+Jeju United,Suwon,1.86,3.40,3.70
+Daegu,Suwon Bluewings,2.26,3.30,3.20
+Ulsan,Jeju United,1.83,3.64,4.18
+Suwon,Jeonbuk Motors,3.68,3.64,1.95
+FC Seoul,Seongnam,2.33,3.05,3.10
+Gangwon,Incheon United,2.00,3.10,3.50
+Pohang Steelers,Gwangju,1.80,3.20,4.20
+Jeonbuk Motors,Ulsan,2.40,3.25,2.83
+Suwon,Daegu,2.55,3.20,2.60
+Jeju United,Suwon Bluewings,2.12,3.10,3.40
+Seongnam,Incheon United,1.97,3.02,3.78
+Pohang Steelers,Gangwon,2.02,3.26,3.30
+Gwangju,FC Seoul,2.80,3.06,2.36
+Gwangju,Gangwon,2.70,3.30,2.80
+Ulsan,Suwon,1.75,3.87,4.52
+Daegu,Jeju United,2.47,3.35,2.88
+Seongnam,Pohang Steelers,2.92,2.92,2.34
+Suwon Bluewings,Jeonbuk Motors,3.52,3.12,2.11
+Incheon United,FC Seoul,3.07,3.10,2.31
+Seongnam,Ulsan,4.20,3.40,1.80
+Pohang Steelers,Incheon United,1.83,3.20,4.00
+Suwon,Gwangju,2.45,3.20,2.63
+Gangwon,FC Seoul,2.45,3.20,2.70
+Jeju United,Jeonbuk Motors,3.00,3.20,2.20
+Daegu,Suwon Bluewings,2.50,3.00,2.80
+Gangwon,Gwangju,1.97,3.30,3.60
+Gangwon,Jeju United,2.80,3.20,2.40
+Incheon United,Gangwon,2.80,3.20,2.45
+FC Seoul,Daegu,2.77,3.28,2.28
+Gwangju,Pohang Steelers,2.90,3.27,2.20
+Jeju United,Seongnam,1.95,3.18,3.62
+Incheon United,Suwon Bluewings,3.20,2.90,2.45
+Suwon,Ulsan,3.40,3.40,2.10
+Gangwon,Jeonbuk Motors,3.75,3.30,2.00
+Gangwon,Pohang Steelers,2.85,3.07,2.43
+Seongnam,Gangwon,2.45,3.10,2.85
+Suwon Bluewings,FC Seoul,2.20,3.10,3.30
+Jeonbuk Motors,Incheon United,1.48,4.20,6.00
+Daegu,Suwon,2.10,3.40,3.40
+Ulsan,Gwangju,1.44,4.30,6.50
+Pohang Steelers,Jeju United,2.40,3.10,2.90
+FC Seoul,Incheon United,2.35,3.20,2.72
+Suwon,Seongnam,2.20,3.10,3.30
+Jeju United,Daegu,2.50,3.10,2.75
+Pohang Steelers,Ulsan,3.09,3.46,2.30
+Gwangju,Jeonbuk Motors,5.00,3.65,1.65
+Suwon Bluewings,Gangwon,2.40,2.95,3.05
+FC Seoul,Suwon,2.65,3.20,2.50
+Incheon United,Seongnam,2.70,2.90,2.75
+Daegu,Ulsan,3.00,3.25,2.30
+Gwangju,Jeju United,3.30,2.90,2.30
+Jeonbuk Motors,Suwon Bluewings,1.67,3.60,4.90
+Suwon,Gangwon,2.15,3.25,3.20
+Seongnam,FC Seoul,2.70,2.85,2.75
+Suwon Bluewings,Gwangju,2.24,3.30,3.36
+Incheon United,Jeju United,2.05,3.45,2.50
+Ulsan,Jeonbuk Motors,2.25,3.25,3.00
+Pohang Steelers,Daegu,2.50,2.95,2.90
+FC Seoul,Jeonbuk Motors,4.00,3.54,1.90
+Seongnam,Daegu,3.00,3.00,2.20
+Jeonbuk Motors,Pohang Steelers,2.03,3.17,3.55
+Jeju United,FC Seoul,2.10,3.20,3.45
+Ulsan,Incheon United,1.42,4.60,6.75
+Jeonbuk Motors,Suwon,1.80,3.70,3.90
+Daegu,Seongnam,2.08,3.01,3.15
+Pohang Steelers,Suwon Bluewings,2.07,3.05,3.14
+Suwon Bluewings,Suwon,2.32,2.91,2.98
+FC Seoul,Ulsan,4.52,2.86,1.85
+Incheon United,Daegu,3.42,3.25,1.96
+Jeonbuk Motors,Pohang Steelers,1.95,3.18,3.53
+Gwangju,Seongnam,2.67,2.89,2.64
+Ulsan,Suwon Bluewings,2.09,3.11,3.26
+FC Seoul,Pohang Steelers,2.71,2.92,2.51
+Suwon,Jeju United,2.40,2.90,3.05
+Seongnam,Jeonbuk Motors,3.60,3.40,2.18
+Daegu,Gwangju,1.91,3.20,3.80
+FC Seoul,Jeju United,2.91,3.14,2.58
+Incheon United,Seongnam,2.50,3.14,3.05
+Gwangju,Incheon United,2.48,3.22,2.98
+Pohang Steelers,Suwon,2.10,3.30,3.35
+Jeonbuk Motors,FC Seoul,1.65,3.90,5.35
+Suwon Bluewings,Seongnam,2.00,3.00,3.90
+Jeju United,Ulsan,3.25,3.05,2.20
+Gangwon,Daegu,2.80,3.35,2.55
+Jeonbuk Motors,Gwangju,1.53,4.33,6.00
+Incheon United,Suwon,2.55,3.25,2.50
+FC Seoul,Gwangju,2.15,3.10,3.20
+Suwon Bluewings,Jeju United,2.41,3.23,2.94
+Ulsan,Gangwon,1.59,3.84,5.72
+Seongnam,Pohang Steelers,3.09,3.17,2.34
+Jeonbuk Motors,Daegu,2.20,3.25,3.30
+Suwon,Jeonbuk Motors,3.75,3.50,1.95
+Pohang Steelers,Seongnam,1.95,3.25,4.00
+Ulsan,Daegu,1.90,3.40,4.10
+Gangwon,Suwon Bluewings,2.82,3.20,2.61
+Daegu,Pohang Steelers,2.46,3.40,2.90
+Gwangju,Seongnam,2.75,3.10,2.76
+Jeju United,Incheon United,1.77,3.25,4.60
+FC Seoul,Ulsan,4.70,3.40,1.73
+Gangwon,Jeju United,3.15,3.00,2.49
+Ulsan,Suwon,1.61,4.00,5.60
+Pohang Steelers,FC Seoul,1.75,3.40,4.20
+Suwon Bluewings,Incheon United,1.83,3.25,4.00
+Gwangju,Gangwon,2.75,2.85,2.50
+Suwon Bluewings,Suwon,1.86,3.40,4.40
+FC Seoul,Incheon United,2.05,3.35,3.50
+Seongnam,Gangwon,2.60,2.95,2.90
+Ulsan,Seongnam,1.48,3.95,7.00
+Gwangju,FC Seoul,2.70,3.15,2.60
+Daegu,FC Seoul,1.69,3.70,4.90
+Seongnam,Jeonbuk Motors,4.05,3.35,1.91
+Pohang Steelers,Gwangju,1.75,3.75,4.60
+Daegu,Gangwon,1.91,3.35,3.95
+FC Seoul,Suwon Bluewings,3.01,3.09,2.65
+Seongnam,Suwon,2.54,3.27,3.00
+Jeju United,Ulsan,3.35,3.25,2.15
+Incheon United,Jeonbuk Motors,4.95,3.65,1.69
+Daegu,Jeonbuk Motors,3.60,3.25,2.05
+Gangwon,FC Seoul,2.25,3.30,3.10
+Gwangju,Suwon Bluewings,3.75,3.05,2.10
+Ulsan,Pohang Steelers,1.95,3.45,3.80
+Jeju United,Seongnam,2.10,3.00,3.90
+Suwon,Incheon United,1.83,3.25,3.75
+Suwon Bluewings,Daegu,2.45,3.10,2.85
+Jeonbuk Motors,Ulsan,2.45,2.90,3.10
+Gwangju,Jeju United,3.45,3.35,2.05
+Suwon,Pohang Steelers,3.50,3.45,2.00
+Ulsan,Suwon Bluewings,1.91,3.35,4.15
+Jeju United,Daegu,2.20,3.35,3.15
+Incheon United,Gwangju,2.55,3.00,2.70
+Gangwon,Suwon,2.25,3.30,3.15
+Gangwon,Ulsan,4.01,3.40,1.90
+Suwon Bluewings,Jeju United,2.72,3.10,2.63
+Suwon,Gwangju,2.17,3.25,2.90
+Incheon United,Pohang Steelers,4.25,3.50,1.70
+Jeonbuk Motors,Suwon Bluewings,1.80,3.10,4.25
+Pohang Steelers,Gangwon,1.91,3.15,3.55
+Jeju United,Suwon,1.62,3.30,4.90
+Daegu,Incheon United,1.63,3.30,4.80
+Incheon United,Gangwon,3.25,3.20,2.25
+Jeonbuk Motors,Jeju United,1.70,3.74,4.94
+Ulsan,Gwangju,1.55,3.78,5.55
+Suwon Bluewings,Pohang Steelers,2.80,2.88,2.59
+Suwon,Daegu,2.80,3.12,2.43
+FC Seoul,Seongnam,2.50,3.00,2.85
+Seongnam,Suwon Bluewings,2.80,2.80,2.80
+Suwon,FC Seoul,2.25,3.10,3.35
+Incheon United,Ulsan,5.25,3.60,1.67
+Gangwon,Jeonbuk Motors,4.25,3.45,1.83
+Gwangju,Daegu,3.10,3.10,2.35
+Pohang Steelers,Jeju United,2.45,3.05,3.00
+Daegu,Suwon Bluewings,2.55,3.10,2.85
+Seongnam,Incheon United,1.91,3.25,4.25
+Jeju United,FC Seoul,1.95,3.40,3.90
+Ulsan,Jeonbuk Motors,2.60,3.25,2.65
+Pohang Steelers,Suwon,1.87,3.65,3.90
+Gangwon,Gwangju,2.25,3.10,3.40
+Jeonbuk Motors,Seongnam,1.65,3.50,5.75
+Suwon Bluewings,Ulsan,3.50,3.20,2.20
+Gwangju,Pohang Steelers,3.25,3.00,2.10
+FC Seoul,Daegu,2.50,3.00,2.62
+Incheon United,Jeju United,3.00,2.87,2.30
+Suwon,Gangwon,2.98,3.05,2.17
+Jeonbuk Motors,Incheon United,1.42,4.72,7.59
+Suwon,Ulsan,5.42,3.95,1.63
+Jeju United,Suwon Bluewings,2.68,3.10,2.83
+Seongnam,Gwangju,2.45,3.30,3.10
+FC Seoul,Pohang Steelers,2.65,3.35,2.80
+Gangwon,Daegu,2.65,3.15,2.95
+Jeju United,Gangwon,2.15,3.20,3.40
+Incheon United,Suwon Bluewings,3.60,3.20,2.10
+Gwangju,Suwon,2.45,3.20,2.88
+Ulsan,FC Seoul,1.85,3.40,4.20
+Daegu,Seongnam,2.10,3.20,3.90
+Pohang Steelers,Jeonbuk Motors,3.30,3.30,2.25
+Gwangju,Incheon United,2.42,3.22,3.19
+Suwon,Jeju United,2.61,3.24,2.72
+FC Seoul,Gangwon,2.18,3.11,3.06
+Seongnam,Ulsan,3.74,3.26,1.87
+Suwon Bluewings,Jeonbuk Motors,3.41,3.17,1.98
+Pohang Steelers,Daegu,2.14,3.35,3.33
+Daegu,Ulsan,4.20,3.65,1.80
+Suwon Bluewings,FC Seoul,2.30,2.95,3.40
+Seongnam,Pohang Steelers,4.15,3.40,1.95
+Gangwon,Incheon United,2.11,3.40,3.55
+Jeonbuk Motors,Suwon,1.45,4.00,5.75
+Jeju United,Gwangju,1.94,3.35,3.75
+Incheon United,Suwon,2.35,3.10,3.05
+FC Seoul,Gwangju,1.83,3.50,3.95
+Gangwon,Seongnam,2.20,3.10,3.30
+Pohang Steelers,Suwon Bluewings,2.25,3.30,3.00
+Ulsan,Jeju United,1.74,3.45,4.75
+Jeonbuk Motors,Daegu,1.48,4.30,6.00
+Suwon Bluewings,Gangwon,2.20,3.20,3.40
+Suwon,Seongnam,2.55,3.10,2.85
+Incheon United,FC Seoul,2.94,3.10,2.53
+Pohang Steelers,Ulsan,2.89,3.24,2.47
+Daegu,Jeju United,1.98,3.30,3.57
+Gwangju,Jeonbuk Motors,5.20,3.68,1.60
+Suwon,Suwon Bluewings,2.93,3.45,2.23
+Seongnam,FC Seoul,3.15,3.00,2.33
+Daegu,Gwangju,1.94,3.50,3.60
+Jeju United,Pohang Steelers,3.10,3.40,2.15
+Ulsan,Incheon United,1.57,3.70,5.75
+Jeonbuk Motors,Gangwon,1.50,3.95,6.00
+FC Seoul,Suwon,2.05,3.25,3.65
+Suwon Bluewings,Seongnam,2.00,3.07,4.47
+Gangwon,Pohang Steelers,2.87,2.92,2.38
+Incheon United,Daegu,3.31,3.25,1.98
+Gwangju,Ulsan,4.85,3.85,1.55
+Jeju United,Jeonbuk Motors,4.20,3.60,1.76
+Seongnam,Jeju United,2.80,3.15,2.55
+Ulsan,Gangwon,1.71,3.55,4.95
+Suwon Bluewings,Gwangju,2.00,3.35,3.65
+Pohang Steelers,Incheon United,1.80,3.30,4.90
+Daegu,Suwon,1.87,3.20,4.40
+Jeonbuk Motors,FC Seoul,1.50,3.90,6.50
